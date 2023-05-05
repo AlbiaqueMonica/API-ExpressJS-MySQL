@@ -42,6 +42,13 @@ node app.js
 🚀Levantará en http://localhost:3000
 
 
+BASE DE DATOS MYSQL
+
+![image](https://user-images.githubusercontent.com/72052340/236583785-9817357a-829d-4e69-9006-778b50f58888.png)
+
+GET desde Postman:
+
+![image](https://user-images.githubusercontent.com/72052340/236583870-4a765b76-d124-455f-8292-108aca8693f0.png)
 
 
 
