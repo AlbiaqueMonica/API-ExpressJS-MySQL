@@ -11,7 +11,7 @@ git clone https://github.com/AlbiaqueMonica/API-ExpressJS-MySQL.git
 
 cd API-ExpressJS-MySQL/
 
-Pre-requisitos 📋
+🧉Pre-requisitos 
 
 NODE JS
 
@@ -19,7 +19,7 @@ npm
 
 Visual Studio Code (u otro editor)
 
-Instalación 🔧
+🧉Instalación y uso
 
 ✨Instalar las dependencias
 
